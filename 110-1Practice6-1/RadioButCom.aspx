@@ -1,4 +1,4 @@
-﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="CheckBoxCom.aspx.cs" Inherits="_110_1Practice6_1.CheckBoxCom" %>
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="RadioButCom.aspx.cs" Inherits="_110_1Practice6_1.RadioButCom" %>
 
 <!DOCTYPE html>
 
